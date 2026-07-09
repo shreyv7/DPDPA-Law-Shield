@@ -1,14 +1,14 @@
 <div align="center">
 
-# 🛡️ _DPDPA Shield — Digital Personal Data Protection Compliance Platform_
+# 🛡️ _DPDPLawShield — Digital Personal Data Protection Compliance Platform_
 
 ### *Enterprise-Grade DPDPA Compliance Automation, powered by Cryptographic Proof & Generative AI*
 
 <br />
 
-   <img width="200" height="200" alt="DPDPA Shield Logo" src="Static Assets/dpdpa_shield_logo.png" />
+   <img width="200" height="200" alt="DPDPLawShield Logo" src="Static Assets/dpdpa_shield_logo.png" />
    <br />
-   <em>DPDPA Shield, a part of <a href="https://zeroshield.ai">ZeroShield</a></em>
+   <em>DPDPLawShield, a part of <a href="https://zeroshield.ai">ZeroShield</a></em>
 
 </div>
 
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-### 🚀 [Sign Up for DPDPA Shield](https://dpdplawshield.zeroshield.ai/)
+### 🚀 [Sign Up for DPDPLawShield](https://dpdplawshield.zeroshield.ai/)
 
 </div>
 
@@ -54,7 +54,7 @@
 
 - [Trial License & Security](#trial-license--security)
 - [Paid Access](#paid-access)
-- [About DPDPA Shield](#about-dpdpa-shield)
+- [About DPDPLawShield](#about-dpdplawshield)
 - [Core Mission](#core-mission)
 - [The DPDPA Regulatory Challenge](#the-dpdpa-regulatory-challenge)
 - [Key Capabilities](#key-capabilities)
@@ -92,7 +92,7 @@
 
 ### Security Measures & Data Protection
 
-DPDPA Shield is built to be the most secure compliance platform an organisation can trust with its most sensitive personal data obligations.
+DPDPLawShield is built to be the most secure compliance platform an organisation can trust with its most sensitive personal data obligations.
 
 #### File & Upload Security
 - **Antivirus scanning** is performed automatically on all file uploads before processing.
@@ -129,11 +129,11 @@ Our team will tailor a plan to your organisation's scale, industry vertical, and
 
 ---
 
-## About DPDPA Shield
+## About DPDPLawShield
 
-**DPDPA Shield** is an enterprise compliance automation platform within the **[ZeroShield](https://zeroshield.ai)** ecosystem, purpose-built to help Indian organisations achieve, demonstrate, and maintain compliance with the **Digital Personal Data Protection (DPDP) Act, 2023**.
+**DPDPLawShield** is an enterprise compliance automation platform within the **[ZeroShield](https://zeroshield.ai)** ecosystem, purpose-built to help Indian organisations achieve, demonstrate, and maintain compliance with the **Digital Personal Data Protection (DPDP) Act, 2023**.
 
-From granular consent capture and cryptographic proof vaults to automated PII scanning, 72-hour breach disclosure, and Data Principal rights management, DPDPA Shield converts the statute's most complex obligations into automated, real-time software guardrails — eliminating manual audit cycles and protecting organisations from statutory penalty exposure of up to **₹250 Crores per breach event**.
+From granular consent capture and cryptographic proof vaults to automated PII scanning, 72-hour breach disclosure, and Data Principal rights management, DPDPLawShield converts the statute's most complex obligations into automated, real-time software guardrails — eliminating manual audit cycles and protecting organisations from statutory penalty exposure of up to **₹250 Crores per breach event**.
 
 ---
 
@@ -156,7 +156,7 @@ The DPDP Act, 2023 introduces a fundamentally stricter standard than previous In
 | **Eighth Schedule Languages** | Consent notices must be accessible in all 22 officially recognised Indian languages |
 | **72-Hour Breach Window** | Mandatory DPBI notification within 72 hours of discovering a personal data breach |
 
-DPDPA Shield addresses every one of these challenges out of the box.
+DPDPLawShield addresses every one of these challenges out of the box.
 
 ---
 
@@ -179,9 +179,9 @@ DPDPA Shield addresses every one of these challenges out of the box.
 
 ## Platform Architecture
 
-<img width="900" height="550" alt="DPDPA Shield Platform Architecture" src="Static Assets/platform_architecture.png" />
+<img width="900" height="550" alt="DPDPLawShield Platform Architecture" src="Static Assets/platform_architecture.png" />
 
-**Description:** The end-to-end architecture of DPDPA Shield, showing how the JavaScript SDK, API Webhooks, and database connectors feed into the compliance engine — which in turn drives the DPDPA Posture Map, Proof Vault, Consent Lifecycle Manager, and Data Principal Rights Portal.
+**Description:** The end-to-end architecture of DPDPLawShield, showing how the JavaScript SDK, API Webhooks, and database connectors feed into the compliance engine — which in turn drives the DPDPA Posture Map, Proof Vault, Consent Lifecycle Manager, and Data Principal Rights Portal.
 
 ---
 
@@ -190,12 +190,12 @@ DPDPA Shield addresses every one of these challenges out of the box.
 ### **Chief Compliance Officers & Legal Counsel**
 *Achieve and demonstrate DPDPA compliance without relying on engineering.*
 
-**Real World Scenario:** Priya, the CCO of a large Indian e-commerce company, faces a DPBI audit in six weeks. Using DPDPA Shield, she connects the company's customer database and website. Within hours the platform generates a penalty-weighted posture score of 61%, surfacing 14 non-conformant DPDPA controls — including missing LIA balancing tests and unconsented third-party trackers firing before the consent banner. She uses the built-in Breach Disclosure Wizard to draft a historical incident summary and exports a full audit-ready evidence package in PDF. On audit day, she presents cryptographically verifiable consent proof packs for every data principal interaction, and the DPBI audit closes with a clean observation report.
+**Real World Scenario:** Priya, the CCO of a large Indian e-commerce company, faces a DPBI audit in six weeks. Using DPDPLawShield, she connects the company's customer database and website. Within hours the platform generates a penalty-weighted posture score of 61%, surfacing 14 non-conformant DPDPA controls — including missing LIA balancing tests and unconsented third-party trackers firing before the consent banner. She uses the built-in Breach Disclosure Wizard to draft a historical incident summary and exports a full audit-ready evidence package in PDF. On audit day, she presents cryptographically verifiable consent proof packs for every data principal interaction, and the DPBI audit closes with a clean observation report.
 
 ### **Data Protection Officers (DPOs)**
 *Manage the full consent lifecycle, rights requests, and cross-border flows from one dashboard.*
 
-**Real World Scenario:** Arjun, DPO at a healthcare SaaS company, receives 40+ DSARs per month across access, correction, and erasure categories. DPDPA Shield's OTP-verified Data Principal Rights Portal automatically routes each request to the right handler, triggers 30-day countdown alarms, and compiles closure letters with a single click. When a minor user is detected via DOB scanning, the Children's Data Safeguard immediately blocks behavioral profiling and routes a parental consent email — all without code changes.
+**Real World Scenario:** Arjun, DPO at a healthcare SaaS company, receives 40+ DSARs per month across access, correction, and erasure categories. DPDPLawShield's OTP-verified Data Principal Rights Portal automatically routes each request to the right handler, triggers 30-day countdown alarms, and compiles closure letters with a single click. When a minor user is detected via DOB scanning, the Children's Data Safeguard immediately blocks behavioral profiling and routes a parental consent email — all without code changes.
 
 ### **CISOs & Security Engineers**
 *Maintain a tamper-proof compliance posture and detect PII risks before they escalate.*
@@ -205,7 +205,7 @@ DPDPA Shield addresses every one of these challenges out of the box.
 ### **Developers & DevOps**
 *Integrate compliance guardrails into CI/CD pipelines with zero-downtime notice updates.*
 
-**Real World Scenario:** Vikram, a DevOps Lead, needs to add consent enforcement to a new mobile app without a backend release cycle. He installs the DPDPA Shield JavaScript SDK in one afternoon. The SDK intercepts all non-essential scripts until the user opts in, dynamically renders the consent banner in the user's preferred Eighth Schedule language, and pushes events to the Proof Vault automatically. When the legal team updates the notice terms, the DPO publishes the change in the dashboard — the SDK picks it up without a single code deployment.
+**Real World Scenario:** Vikram, a DevOps Lead, needs to add consent enforcement to a new mobile app without a backend release cycle. He installs the DPDPLawShield JavaScript SDK in one afternoon. The SDK intercepts all non-essential scripts until the user opts in, dynamically renders the consent banner in the user's preferred Eighth Schedule language, and pushes events to the Proof Vault automatically. When the legal team updates the notice terms, the DPO publishes the change in the dashboard — the SDK picks it up without a single code deployment.
 
 ### **Compliance & Audit Teams**
 *Map gaps to DPDPA sections, track remediation, and generate evidence on demand.*
@@ -222,7 +222,7 @@ The platform is organised into **9 sidebar sections**, each containing dedicated
 
 ### Platform Guides & How to Use
 
-DPDPA Shield includes built-in guided walkthroughs at the top of the sidebar (**How to Use**) and at the entry of each major section (**Data Protection Guide**, **Compliance Guide**, **Governance Guide**). These interactive guides walk new users through each section's core workflows step by step.
+DPDPLawShield includes built-in guided walkthroughs at the top of the sidebar (**How to Use**) and at the entry of each major section (**Data Protection Guide**, **Compliance Guide**, **Governance Guide**). These interactive guides walk new users through each section's core workflows step by step.
 
 **All platform guides are covered in a single walkthrough video:**
 
@@ -236,7 +236,7 @@ https://github.com/user-attachments/assets/PLACEHOLDER_PLATFORM_GUIDES_VIDEO
 
 ### Shield AI
 
-**Shield AI** is DPDPA Shield's embedded AI compliance assistant — accessible via the persistent button at the bottom of the sidebar from anywhere on the platform. Shield AI answers DPDPA-specific compliance questions, explains findings, suggests remediation steps, drafts notice language, and helps users navigate complex obligations.
+**Shield AI** is DPDPLawShield's embedded AI compliance assistant — accessible via the persistent button at the bottom of the sidebar from anywhere on the platform. Shield AI answers DPDPA-specific compliance questions, explains findings, suggests remediation steps, drafts notice language, and helps users navigate complex obligations.
 
 https://github.com/user-attachments/assets/PLACEHOLDER_SHIELD_AI_VIDEO
 
@@ -264,7 +264,7 @@ The main entry point for the platform — showing the penalty-weighted DPDPA pos
 
 https://github.com/user-attachments/assets/PLACEHOLDER_OVERVIEW_DASHBOARD_VIDEO
 
-<img width="900" height="550" alt="DPDPA Shield Dashboard" src="Static Assets/overview_dashboard.png" />
+<img width="900" height="550" alt="DPDPLawShield Dashboard" src="Static Assets/overview_dashboard.png" />
 
 **Description:** The main compliance dashboard displaying the penalty-weighted posture score, a DPDPA section conformance map, live risk alerts, and ROPA deduction summaries — giving CCOs and DPOs an instant regulatory exposure view.
 
@@ -298,7 +298,7 @@ https://github.com/user-attachments/assets/PLACEHOLDER_OVERVIEW_AUTOMATION_COVER
 
 #### Hypothetical User Scenario
 
-> **Neha**, a CCO at a logistics company, opens DPDPA Shield on Monday morning. The posture score has dropped from 78% to 63% over the weekend. The alert feed shows a schema drift — a new `mobile_number` column was added to the shipment database without PII classification. She checks the Compliance Score to identify the highest-penalty gap, then reviews Automation Coverage to see that PII Scanner is automated and will self-remediate on the next run — and confirms via the RBAC matrix that the right handlers have access.
+> **Neha**, a CCO at a logistics company, opens DPDPLawShield on Monday morning. The posture score has dropped from 78% to 63% over the weekend. The alert feed shows a schema drift — a new `mobile_number` column was added to the shipment database without PII classification. She checks the Compliance Score to identify the highest-penalty gap, then reviews Automation Coverage to see that PII Scanner is automated and will self-remediate on the next run — and confirms via the RBAC matrix that the right handlers have access.
 
 ---
 
@@ -448,7 +448,7 @@ https://github.com/user-attachments/assets/PLACEHOLDER_CONSENT_WITHDRAWAL_FLOW_V
 
 ### 3. Integrations
 
-The Integrations section provides all the connectors needed to embed DPDPA Shield's consent enforcement and audit logging into existing websites, mobile apps, tag management systems, and backend services — without modifying core application code.
+The Integrations section provides all the connectors needed to embed DPDPLawShield's consent enforcement and audit logging into existing websites, mobile apps, tag management systems, and backend services — without modifying core application code.
 
 #### Architecture Overview
 
@@ -859,13 +859,13 @@ https://github.com/user-attachments/assets/PLACEHOLDER_SETTINGS_INDUSTRY_CONFIG_
 
 #### 📄 DPDP Role Mapping
 
-Map the organisation's internal user accounts and groups to DPDPA Shield's RBAC roles — Superadmin, Org Admin, DPO, CISO, Auditor, Handler, and Viewer — with SSO group sync support.
+Map the organisation's internal user accounts and groups to DPDPLawShield's RBAC roles — Superadmin, Org Admin, DPO, CISO, Auditor, Handler, and Viewer — with SSO group sync support.
 
 https://github.com/user-attachments/assets/PLACEHOLDER_SETTINGS_ROLE_MAPPING_VIDEO
 
 <img width="900" height="550" alt="DPDP Role Mapping" src="Static Assets/settings_role_mapping.png" />
 
-**Description:** The DPDP Role Mapping page, showing a table of all active user accounts with their assigned DPDPA Shield roles and an SSO group sync configuration panel — allowing administrators to map Active Directory or Google Workspace groups to platform roles automatically.
+**Description:** The DPDP Role Mapping page, showing a table of all active user accounts with their assigned DPDPLawShield roles and an SSO group sync configuration panel — allowing administrators to map Active Directory or Google Workspace groups to platform roles automatically.
 
 ---
 
@@ -889,7 +889,7 @@ https://github.com/user-attachments/assets/PLACEHOLDER_ADMIN_TEAM_USERS_VIDEO
 
 ## DPDPA Section Compliance Mapping
 
-| DPDPA Section | Obligation | DPDPA Shield Module |
+| DPDPA Section | Obligation | DPDPLawShield Module |
 |---------------|-----------|---------------------|
 | **Section 4** | Lawful processing with valid notice & consent | Consent Creator, Notice Builder |
 | **Section 5** | Notice requirements (purpose, categories, rights) | Consent Notices Manager, Eighth Schedule Language Support |
@@ -946,7 +946,7 @@ https://github.com/user-attachments/assets/PLACEHOLDER_ADMIN_TEAM_USERS_VIDEO
 
 ## Case Studies
 
-A growing library of real-world case studies and technical deep-dives is available, demonstrating DPDPA Shield's impact across industries:
+A growing library of real-world case studies and technical deep-dives is available, demonstrating DPDPLawShield's impact across industries:
 
 - **[Case Study 1: Achieving DPDPA Baseline Compliance for a Telemedicine Platform](Case%20Studies/Achieving-DPDPA-Baseline-Compliance-for-a-Telemedicine-Platform.pdf)**
 
@@ -964,9 +964,9 @@ A growing library of real-world case studies and technical deep-dives is availab
 ---
 
 > **Value Proposition:**
-> DPDPA Shield turns the Digital Personal Data Protection Act's most complex regulatory obligations into automated, auditable, and cryptographically provable software guardrails — empowering every Indian Data Fiduciary to move faster, stay compliant, and protect the trust of every Data Principal they serve.
+> DPDPLawShield turns the Digital Personal Data Protection Act's most complex regulatory obligations into automated, auditable, and cryptographically provable software guardrails — empowering every Indian Data Fiduciary to move faster, stay compliant, and protect the trust of every Data Principal they serve.
 
-*DPDPA Shield, a part of [ZeroShield](https://zeroshield.ai), brings in-depth, practical compliance automation to every stage of your data lifecycle.*
+*DPDPLawShield, a part of [ZeroShield](https://zeroshield.ai), brings in-depth, practical compliance automation to every stage of your data lifecycle.*
 
 ---
 
@@ -976,12 +976,12 @@ We welcome contributions from the compliance, legal-tech, and security communiti
 
 ### 🚀 Get Started
 
-**[Sign up for DPDPA Shield](https://dpdplawshield.zeroshield.ai/)** to start your compliance journey today!
+**[Sign up for DPDPLawShield](https://dpdplawshield.zeroshield.ai/)** to start your compliance journey today!
 
 ### 🤝 Contributing
 
 - **Report Issues**: Found a bug or have a feature request? Open an issue on the repository.
-- **Code Contributions**: Submit pull requests to improve DPDPA Shield.
+- **Code Contributions**: Submit pull requests to improve DPDPLawShield.
 - **Documentation**: Help expand our compliance documentation and DPDPA section guides.
 - **Compliance Research**: Contribute new DPDPA section mappings, LIA templates, or breach scenario test cases.
 - **Note**: When contributing files, ensure individual files are under **100 MB** (GitHub repository size limit).
@@ -990,7 +990,7 @@ We welcome contributions from the compliance, legal-tech, and security communiti
 
 - **GitHub Discussions**: Join community discussions on DPDPA compliance approaches.
 - **Compliance Research**: Collaborate on new interpretations of DPDPA obligations and emerging DPBI guidance.
-- **Feedback**: Share your experience using DPDPA Shield in your organisation.
+- **Feedback**: Share your experience using DPDPLawShield in your organisation.
 
 ### 📞 Contact
 
