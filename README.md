@@ -1,14 +1,14 @@
 <div align="center">
 
-# 🛡️ _DPDPLawShield — Digital Personal Data Protection Compliance Platform_
+# 🛡️ _DPDPA Shield — Digital Personal Data Protection Compliance Platform_
 
 ### *Enterprise-Grade DPDPA Compliance Automation, powered by Cryptographic Proof & Generative AI*
 
 <br />
 
-   <img width="200" height="200" alt="DPDPLawShield Logo" src="Static Assets/dpdpa_shield_logo.png" />
+   <img width="200" height="200" alt="DPDPA Shield Logo" src="Static Assets/dpdpa_shield_logo.png" />
    <br />
-   <em>DPDPLawShield, a part of <a href="https://zeroshield.ai">ZeroShield</a></em>
+   <em>DPDPA Shield, a part of <a href="https://zeroshield.ai">ZeroShield</a></em>
 
 </div>
 
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-### 🚀 [Sign Up for DPDPLawShield](https://dpdplawshield.zeroshield.ai/)
+### 🚀 [Sign Up for DPDPA Shield](https://dpdplawshield.zeroshield.ai/)
 
 </div>
 
@@ -52,12 +52,12 @@
 
 ## Table of Contents
 
-- [About DPDPLawShield](#about-dpdplawshield)
+- [Trial License & Security](#trial-license--security)
+- [Paid Access](#paid-access)
+- [About DPDPA Shield](#about-dpdpa-shield)
 - [Core Mission](#core-mission)
 - [The DPDPA Regulatory Challenge](#the-dpdpa-regulatory-challenge)
 - [Key Capabilities](#key-capabilities)
-- [Trial License & Security](#trial-license--security)
-- [Paid Access](#paid-access)
 - [Platform Architecture](#platform-architecture)
 - [Target Users](#target-users)
 - [Feature Overview](#feature-overview)
@@ -82,54 +82,6 @@
 
 ---
 
-## About DPDPLawShield
-
-**DPDPLawShield** is an enterprise compliance automation platform within the **[ZeroShield](https://zeroshield.ai)** ecosystem, purpose-built to help Indian organisations achieve, demonstrate, and maintain compliance with the **Digital Personal Data Protection (DPDP) Act, 2023**.
-
-From granular consent capture and cryptographic proof vaults to automated PII scanning, 72-hour breach disclosure, and Data Principal rights management, DPDPLawShield converts the statute's most complex obligations into automated, real-time software guardrails — eliminating manual audit cycles and protecting organisations from statutory penalty exposure of up to **₹250 Crores per breach event**.
-
----
-
-## Core Mission
-
-Transform the DPDP Act's complex regulatory requirements into a single, unified SaaS platform that automates consent lifecycle management, proves compliance through tamper-proof cryptographic evidence, detects personal data risks before they become breaches, and empowers Data Principals to exercise their statutory rights — all with zero modification to existing application code.
-
----
-
-## The DPDPA Regulatory Challenge
-
-The DPDP Act, 2023 introduces a fundamentally stricter standard than previous Indian privacy frameworks:
-
-| Challenge | Details |
-|-----------|---------|
-| **Burden of Proof (Section 6(10))** | The *Data Fiduciary* (your organisation) must prove valid consent was obtained — not the regulator |
-| **Strict Opt-In Mandate** | Silent, pre-ticked, or bundled consent is illegal. Consent must be specific, informed, unconditional, and given via a clear affirmative action |
-| **Severe Penalty Exposure** | Personal data breach: **₹250 Cr** · Failure to notify: **₹150 Cr** · Children's data violation: **₹200 Cr** |
-| **DPBI Oversight** | The Data Protection Board of India (DPBI) has direct adjudicatory powers with no cap on repeat violations |
-| **Eighth Schedule Languages** | Consent notices must be accessible in all 22 officially recognised Indian languages |
-| **72-Hour Breach Window** | Mandatory DPBI notification within 72 hours of discovering a personal data breach |
-
-DPDPLawShield addresses every one of these challenges out of the box.
-
----
-
-## Key Capabilities
-
-- 🗺️ **Penalty-Weighted DPDPA Posture Scoring** — live compliance score weighted by each section's statutory fine
-- 📝 **Granular Consent Management** — purpose registry, pluggable provider adapters, and symmetric withdrawal flows
-- 🔐 **Cryptographic Proof Vault** — SHA-256 chained, WORM ledger generating Indian Evidence Act Section 65B-compliant legal proof packs
-- 🍪 **Cookie & Tracker Manager** — headless Playwright crawler with real-time prior-consent enforcement
-- 👶 **Children's Data Safeguard** — verifiable parental consent workflows and zero-tracking enforcement API
-- 🔍 **Data Discovery & PII Scanner** — automated schema scanning across PostgreSQL, MySQL, Amazon S3, and local directories
-- 🧮 **Data Anonymisation & Retention** — k-Anonymity, l-Diversity, Laplace Differential Privacy, and automated deletion with certificates
-- 🎫 **Data Principal Rights Portal** — OTP-verified DSAR portal with Kanban SLA tracker and statutory countdown alarms
-- 🌐 **Cross-Border Transfer Governance** — restricted-country verification, DPA contract builder, and SDF registry
-- 🚨 **72-Hour Breach Disclosure Wizard** — guided stepper with pre-filled DPBI templates and tamper-proof evidence PDFs
-- 🔑 **Role-Based Access Control** — strict RBAC matrix with append-only audit log event broker
-- 🤖 **Shield AI** — AI-powered compliance assistant embedded across the platform
-
----
-
 ## Trial License & Security
 
 ### Trial License Limits
@@ -140,7 +92,7 @@ DPDPLawShield addresses every one of these challenges out of the box.
 
 ### Security Measures & Data Protection
 
-DPDPLawShield is built to be the most secure compliance platform an organisation can trust with its most sensitive personal data obligations.
+DPDPA Shield is built to be the most secure compliance platform an organisation can trust with its most sensitive personal data obligations.
 
 #### File & Upload Security
 - **Antivirus scanning** is performed automatically on all file uploads before processing.
@@ -177,11 +129,59 @@ Our team will tailor a plan to your organisation's scale, industry vertical, and
 
 ---
 
+## About DPDPA Shield
+
+**DPDPA Shield** is an enterprise compliance automation platform within the **[ZeroShield](https://zeroshield.ai)** ecosystem, purpose-built to help Indian organisations achieve, demonstrate, and maintain compliance with the **Digital Personal Data Protection (DPDP) Act, 2023**.
+
+From granular consent capture and cryptographic proof vaults to automated PII scanning, 72-hour breach disclosure, and Data Principal rights management, DPDPA Shield converts the statute's most complex obligations into automated, real-time software guardrails — eliminating manual audit cycles and protecting organisations from statutory penalty exposure of up to **₹250 Crores per breach event**.
+
+---
+
+## Core Mission
+
+Transform the DPDP Act's complex regulatory requirements into a single, unified SaaS platform that automates consent lifecycle management, proves compliance through tamper-proof cryptographic evidence, detects personal data risks before they become breaches, and empowers Data Principals to exercise their statutory rights — all with zero modification to existing application code.
+
+---
+
+## The DPDPA Regulatory Challenge
+
+The DPDP Act, 2023 introduces a fundamentally stricter standard than previous Indian privacy frameworks:
+
+| Challenge | Details |
+|-----------|---------|
+| **Burden of Proof (Section 6(10))** | The *Data Fiduciary* (your organisation) must prove valid consent was obtained — not the regulator |
+| **Strict Opt-In Mandate** | Silent, pre-ticked, or bundled consent is illegal. Consent must be specific, informed, unconditional, and given via a clear affirmative action |
+| **Severe Penalty Exposure** | Personal data breach: **₹250 Cr** · Failure to notify: **₹150 Cr** · Children's data violation: **₹200 Cr** |
+| **DPBI Oversight** | The Data Protection Board of India (DPBI) has direct adjudicatory powers with no cap on repeat violations |
+| **Eighth Schedule Languages** | Consent notices must be accessible in all 22 officially recognised Indian languages |
+| **72-Hour Breach Window** | Mandatory DPBI notification within 72 hours of discovering a personal data breach |
+
+DPDPA Shield addresses every one of these challenges out of the box.
+
+---
+
+## Key Capabilities
+
+- 🗺️ **Penalty-Weighted DPDPA Posture Scoring** — live compliance score weighted by each section's statutory fine
+- 📝 **Granular Consent Management** — purpose registry, pluggable provider adapters, and symmetric withdrawal flows
+- 🔐 **Cryptographic Proof Vault** — SHA-256 chained, WORM ledger generating Indian Evidence Act Section 65B-compliant legal proof packs
+- 🍪 **Cookie & Tracker Manager** — headless Playwright crawler with real-time prior-consent enforcement
+- 👶 **Children's Data Safeguard** — verifiable parental consent workflows and zero-tracking enforcement API
+- 🔍 **Data Discovery & PII Scanner** — automated schema scanning across PostgreSQL, MySQL, Amazon S3, and local directories
+- 🧮 **Data Anonymisation & Retention** — k-Anonymity, l-Diversity, Laplace Differential Privacy, and automated deletion with certificates
+- 🎫 **Data Principal Rights Portal** — OTP-verified DSAR portal with Kanban SLA tracker and statutory countdown alarms
+- 🌐 **Cross-Border Transfer Governance** — restricted-country verification, DPA contract builder, and SDF registry
+- 🚨 **72-Hour Breach Disclosure Wizard** — guided stepper with pre-filled DPBI templates and tamper-proof evidence PDFs
+- 🔑 **Role-Based Access Control** — strict RBAC matrix with append-only audit log event broker
+- 🤖 **Shield AI** — AI-powered compliance assistant embedded across the platform
+
+---
+
 ## Platform Architecture
 
-<img width="900" height="550" alt="DPDPLawShield Platform Architecture" src="Static Assets/platform_architecture.png" />
+<img width="900" height="550" alt="DPDPA Shield Platform Architecture" src="Static Assets/platform_architecture.png" />
 
-**Description:** The end-to-end architecture of DPDPLawShield, showing how the JavaScript SDK, API Webhooks, and database connectors feed into the compliance engine — which in turn drives the DPDPA Posture Map, Proof Vault, Consent Lifecycle Manager, and Data Principal Rights Portal.
+**Description:** The end-to-end architecture of DPDPA Shield, showing how the JavaScript SDK, API Webhooks, and database connectors feed into the compliance engine — which in turn drives the DPDPA Posture Map, Proof Vault, Consent Lifecycle Manager, and Data Principal Rights Portal.
 
 ---
 
@@ -190,12 +190,12 @@ Our team will tailor a plan to your organisation's scale, industry vertical, and
 ### **Chief Compliance Officers & Legal Counsel**
 *Achieve and demonstrate DPDPA compliance without relying on engineering.*
 
-**Real World Scenario:** Priya, the CCO of a large Indian e-commerce company, faces a DPBI audit in six weeks. Using DPDPLawShield, she connects the company's customer database and website. Within hours the platform generates a penalty-weighted posture score of 61%, surfacing 14 non-conformant DPDPA controls — including missing LIA balancing tests and unconsented third-party trackers firing before the consent banner. She uses the built-in Breach Disclosure Wizard to draft a historical incident summary and exports a full audit-ready evidence package in PDF. On audit day, she presents cryptographically verifiable consent proof packs for every data principal interaction, and the DPBI audit closes with a clean observation report.
+**Real World Scenario:** Priya, the CCO of a large Indian e-commerce company, faces a DPBI audit in six weeks. Using DPDPA Shield, she connects the company's customer database and website. Within hours the platform generates a penalty-weighted posture score of 61%, surfacing 14 non-conformant DPDPA controls — including missing LIA balancing tests and unconsented third-party trackers firing before the consent banner. She uses the built-in Breach Disclosure Wizard to draft a historical incident summary and exports a full audit-ready evidence package in PDF. On audit day, she presents cryptographically verifiable consent proof packs for every data principal interaction, and the DPBI audit closes with a clean observation report.
 
 ### **Data Protection Officers (DPOs)**
 *Manage the full consent lifecycle, rights requests, and cross-border flows from one dashboard.*
 
-**Real World Scenario:** Arjun, DPO at a healthcare SaaS company, receives 40+ DSARs per month across access, correction, and erasure categories. DPDPLawShield's OTP-verified Data Principal Rights Portal automatically routes each request to the right handler, triggers 30-day countdown alarms, and compiles closure letters with a single click. When a minor user is detected via DOB scanning, the Children's Data Safeguard immediately blocks behavioral profiling and routes a parental consent email — all without code changes.
+**Real World Scenario:** Arjun, DPO at a healthcare SaaS company, receives 40+ DSARs per month across access, correction, and erasure categories. DPDPA Shield's OTP-verified Data Principal Rights Portal automatically routes each request to the right handler, triggers 30-day countdown alarms, and compiles closure letters with a single click. When a minor user is detected via DOB scanning, the Children's Data Safeguard immediately blocks behavioral profiling and routes a parental consent email — all without code changes.
 
 ### **CISOs & Security Engineers**
 *Maintain a tamper-proof compliance posture and detect PII risks before they escalate.*
@@ -205,7 +205,7 @@ Our team will tailor a plan to your organisation's scale, industry vertical, and
 ### **Developers & DevOps**
 *Integrate compliance guardrails into CI/CD pipelines with zero-downtime notice updates.*
 
-**Real World Scenario:** Vikram, a DevOps Lead, needs to add consent enforcement to a new mobile app without a backend release cycle. He installs the DPDPLawShield JavaScript SDK in one afternoon. The SDK intercepts all non-essential scripts until the user opts in, dynamically renders the consent banner in the user's preferred Eighth Schedule language, and pushes events to the Proof Vault automatically. When the legal team updates the notice terms, the DPO publishes the change in the dashboard — the SDK picks it up without a single code deployment.
+**Real World Scenario:** Vikram, a DevOps Lead, needs to add consent enforcement to a new mobile app without a backend release cycle. He installs the DPDPA Shield JavaScript SDK in one afternoon. The SDK intercepts all non-essential scripts until the user opts in, dynamically renders the consent banner in the user's preferred Eighth Schedule language, and pushes events to the Proof Vault automatically. When the legal team updates the notice terms, the DPO publishes the change in the dashboard — the SDK picks it up without a single code deployment.
 
 ### **Compliance & Audit Teams**
 *Map gaps to DPDPA sections, track remediation, and generate evidence on demand.*
@@ -222,7 +222,7 @@ The platform is organised into **9 sidebar sections**, each containing dedicated
 
 ### Platform Guides & How to Use
 
-DPDPLawShield includes built-in guided walkthroughs at the top of the sidebar (**How to Use**) and at the entry of each major section (**Data Protection Guide**, **Compliance Guide**, **Governance Guide**). These interactive guides walk new users through each section's core workflows step by step.
+DPDPA Shield includes built-in guided walkthroughs at the top of the sidebar (**How to Use**) and at the entry of each major section (**Data Protection Guide**, **Compliance Guide**, **Governance Guide**). These interactive guides walk new users through each section's core workflows step by step.
 
 **All platform guides are covered in a single walkthrough video:**
 
@@ -236,7 +236,7 @@ https://github.com/user-attachments/assets/PLACEHOLDER_PLATFORM_GUIDES_VIDEO
 
 ### Shield AI
 
-**Shield AI** is DPDPLawShield's embedded AI compliance assistant — accessible via the persistent button at the bottom of the sidebar from anywhere on the platform. Shield AI answers DPDPA-specific compliance questions, explains findings, suggests remediation steps, drafts notice language, and helps users navigate complex obligations.
+**Shield AI** is DPDPA Shield's embedded AI compliance assistant — accessible via the persistent button at the bottom of the sidebar from anywhere on the platform. Shield AI answers DPDPA-specific compliance questions, explains findings, suggests remediation steps, drafts notice language, and helps users navigate complex obligations.
 
 https://github.com/user-attachments/assets/PLACEHOLDER_SHIELD_AI_VIDEO
 
@@ -252,7 +252,79 @@ The Overview section gives executives, DPOs, and compliance teams an instant boa
 
 #### Architecture Overview
 
-<img width="900" height="550" alt="Overview Architecture" src="Static Assets/overview_architecture.png" />
+```mermaid
+flowchart TB
+    %% Subsystem Inputs
+    subgraph Subsystems ["Active Modules & Subsystems"]
+        subgraph ConsentSub ["Consent Management"]
+            A1["Consent Receipts"]
+            A2["Notice Registries"]
+        end
+        subgraph RightsSub ["Principal Rights (DSAR)"]
+            B1["DSAR Queue"]
+            B2["Response SLAs & Timelines"]
+        end
+        subgraph SafeguardsSub ["Compliance & Security"]
+            C1["Security Safeguard Metrics"]
+            C2["Breach Wizards & Logs"]
+        end
+        subgraph GovSub ["Governance & Map"]
+            D1["ROPA Entries"]
+            D2["Data Inventories (PII)"]
+        end
+    end
+
+    %% Aggregation layer
+    subgraph Engine ["Aggregation & Scoring Engine (FastAPI backend)"]
+        E1["Compliance Map Service"]
+        E2["Dashboard Aggregator Service"]
+        E3["Penalty Weighting Module<br/>(DPDPA Schedule 1 Map)"]
+    end
+
+    %% Visual outputs
+    subgraph UI ["Executive & DPO Dashboards"]
+        F1["Penalty-Weighted Posture Score"]
+        F2["Compliance Score Breakdown"]
+        F3["Live Risk Alerts & Deductions"]
+        F4["Shield AI Assistant Panel"]
+    end
+
+    %% Roles
+    subgraph Roles ["Authorized Stakeholders"]
+        G1["Executives & Board"]
+        G2["DPO / Compliance Officer"]
+        G3["CISO & Security Teams"]
+        G4["External Auditors"]
+    end
+
+    %% Connections
+    ConsentSub --> E1
+    RightsSub --> E2
+    SafeguardsSub --> E1
+    GovSub --> E2
+
+    E1 --> E3
+    E2 --> E3
+
+    E3 --> UI
+
+    UI --> G1
+    UI --> G2
+    UI --> G3
+    UI --> G4
+
+    %% Styling
+    classDef default fill:#fafafa,stroke:#333,stroke-width:1px;
+    classDef module fill:#e3f2fd,stroke:#1565c0,stroke-width:1.5px;
+    classDef engine fill:#f3e5f5,stroke:#4a148c,stroke-width:1.5px;
+    classDef dashboard fill:#e8f5e9,stroke:#2e7d32,stroke-width:1.5px;
+    classDef actor fill:#fff8e1,stroke:#f57f17,stroke-width:1.5px;
+
+    class A1,A2,B1,B2,C1,C2,D1,D2 module;
+    class E1,E2,E3 engine;
+    class F1,F2,F3,F4 dashboard;
+    class G1,G2,G3,G4 actor;
+```
 
 **Description:** The Overview section architecture, illustrating how consent receipts, DSAR queues, security safeguard metrics, and ROPA entries are aggregated in real time into the penalty-weighted posture score and compliance dashboards visible to all roles.
 
@@ -264,7 +336,7 @@ The main entry point for the platform — showing the penalty-weighted DPDPA pos
 
 https://github.com/user-attachments/assets/PLACEHOLDER_OVERVIEW_DASHBOARD_VIDEO
 
-<img width="900" height="550" alt="DPDPLawShield Dashboard" src="Static Assets/overview_dashboard.png" />
+<img width="900" height="550" alt="DPDPA Shield Dashboard" src="Static Assets/overview_dashboard.png" />
 
 **Description:** The main compliance dashboard displaying the penalty-weighted posture score, a DPDPA section conformance map, live risk alerts, and ROPA deduction summaries — giving CCOs and DPOs an instant regulatory exposure view.
 
@@ -298,7 +370,7 @@ https://github.com/user-attachments/assets/PLACEHOLDER_OVERVIEW_AUTOMATION_COVER
 
 #### Hypothetical User Scenario
 
-> **Neha**, a CCO at a logistics company, opens DPDPLawShield on Monday morning. The posture score has dropped from 78% to 63% over the weekend. The alert feed shows a schema drift — a new `mobile_number` column was added to the shipment database without PII classification. She checks the Compliance Score to identify the highest-penalty gap, then reviews Automation Coverage to see that PII Scanner is automated and will self-remediate on the next run — and confirms via the RBAC matrix that the right handlers have access.
+> **Neha**, a CCO at a logistics company, opens DPDPA Shield on Monday morning. The posture score has dropped from 78% to 63% over the weekend. The alert feed shows a schema drift — a new `mobile_number` column was added to the shipment database without PII classification. She checks the Compliance Score to identify the highest-penalty gap, then reviews Automation Coverage to see that PII Scanner is automated and will self-remediate on the next run — and confirms via the RBAC matrix that the right handlers have access.
 
 ---
 
@@ -448,11 +520,98 @@ https://github.com/user-attachments/assets/PLACEHOLDER_CONSENT_WITHDRAWAL_FLOW_V
 
 ### 3. Integrations
 
-The Integrations section provides all the connectors needed to embed DPDPLawShield's consent enforcement and audit logging into existing websites, mobile apps, tag management systems, and backend services — without modifying core application code.
+The Integrations section provides all the connectors needed to embed DPDPA Shield's consent enforcement and audit logging into existing websites, mobile apps, tag management systems, and backend services — without modifying core application code.
 
 #### Architecture Overview
 
-<img width="900" height="550" alt="Integrations Architecture" src="Static Assets/integrations_architecture.png" />
+```mermaid
+flowchart TB
+    %% Core Platform
+    subgraph Platform ["ZeroShield Compliance Platform (Central Cloud)"]
+        direction TB
+        CDN["ZeroShield CDN<br/>(Notice Versions & Configurations)"]
+        API["FastAPI Backend API<br/>(Integrations & Notice Service)"]
+        PV[["Proof Vault Endpoint<br/>(Cryptographic SHA-256 Ledger)"]]
+        DB[(PostgreSQL Database)]
+        
+        API <--> DB
+        PV --> DB
+    end
+
+    %% Website Integration Path
+    subgraph WebPath ["1. Website Integration (Web SDK)"]
+        direction TB
+        BrowserDOM["Browser DOM / Window"]
+        ZSSDK["ZeroShield JS SDK<br/>(Embedded Loader)"]
+        LS["Local Storage & Cookies<br/>(Cached Choice)"]
+        BannerUI["Consent Banner Modal<br/>(Notice Rendering)"]
+
+        BrowserDOM -->|Initialize| ZSSDK
+        ZSSDK <-->|Check & Write| LS
+        ZSSDK -->|Render| BannerUI
+    end
+
+    %% Tag Manager Integration Path
+    subgraph TagPath ["2. Tag Manager Integration"]
+        direction TB
+        GTM["Google Tag Manager Container"]
+        DL["Browser dataLayer Array<br/>(zs_consent_marketing, etc.)"]
+        Tags["Third-Party Tags & Pixels<br/>(Google Analytics, Meta Pixel, etc.)"]
+
+        DL -->|Trigger Variables| GTM
+        GTM -->|Fire / Block Tags| Tags
+    end
+
+    %% Mobile SDK Path
+    subgraph MobilePath ["3. Mobile SDK Integration"]
+        direction TB
+        NativeApp["Native Mobile App<br/>(Kotlin / Swift)"]
+        MobileSDK["ZeroShield Mobile SDK"]
+        LocalPrefs["UserDefaults / SharedPreferences"]
+        NativeDialog["Native Dialog UI Components"]
+        OfflineQueue["Offline Queue Manager"]
+
+        NativeApp -->|Initialize| MobileSDK
+        MobileSDK <-->|Read / Write| LocalPrefs
+        MobileSDK -->|Render| NativeDialog
+        MobileSDK -->|Queue Events| OfflineQueue
+    end
+
+    %% API Webhook Path
+    subgraph APIPath ["4. API & Webhooks (Server-to-Server)"]
+        direction TB
+        DevClient["Developer Client / Server"]
+        WebhookDispatcher["Webhook Dispatch Worker<br/>(HMAC-SHA256 Signatures)"]
+        CustBackend["Customer Downstream Backends<br/>(CRM, Salesforce, Databases)"]
+
+        DevClient -->|REST API Calls| API
+        WebhookDispatcher -->|HTTP POST JSON Events| CustBackend
+    end
+
+    %% Integration Cross-Connections
+    ZSSDK -->|Fetch Notice| CDN
+    ZSSDK -->|Push zs_consent_update| DL
+    ZSSDK -->|Send Consent Event| PV
+
+    MobileSDK -->|Fetch JSON Notice| CDN
+    OfflineQueue -->|Flush Stored Events| PV
+
+    API -->|Queue Webhook Job| WebhookDispatcher
+
+    %% Styling
+    classDef default fill:#fafafa,stroke:#333,stroke-width:1px;
+    classDef platform fill:#ede7f6,stroke:#5e35b1,stroke-width:1.5px;
+    classDef web fill:#e3f2fd,stroke:#1565c0,stroke-width:1.5px;
+    classDef tag fill:#e0f2f1,stroke:#00796b,stroke-width:1.5px;
+    classDef mobile fill:#f1f8e9,stroke:#558b2f,stroke-width:1.5px;
+    classDef api fill:#fff3e0,stroke:#e65100,stroke-width:1.5px;
+
+    class CDN,API,PV,DB platform;
+    class BrowserDOM,ZSSDK,LS,BannerUI web;
+    class GTM,DL,Tags tag;
+    class NativeApp,MobileSDK,LocalPrefs,NativeDialog,OfflineQueue mobile;
+    class DevClient,WebhookDispatcher,CustBackend api;
+```
 
 **Description:** The Integrations architecture, showing the integration paths — Website SDK (JavaScript), Mobile SDK (iOS/Android), API Webhooks (server-to-server), and Tag Manager — and how each feeds consent events into the centralised Proof Vault.
 
@@ -470,15 +629,51 @@ https://github.com/user-attachments/assets/PLACEHOLDER_INTEGRATIONS_OVERVIEW_VID
 
 ---
 
-#### 📄 Technical Integration
+#### 📄 Website Integration
 
-Step-by-step technical setup guides for all supported integration methods — including the JavaScript SDK snippet, mobile SDK install instructions, API authentication, webhook HMAC signing, and Tag Manager container configuration.
+Integrates consent banner and dynamic tracker script blocking into client websites via a low-code asynchronous JS loader script. It intercepts and blocks non-essential third-party scripts (e.g. Google Analytics, Meta Pixel) until the user grants explicit consent under Section 6 of DPDPA, caching preference states in cookies/LocalStorage and dispatching events to the central Proof Vault.
 
-https://github.com/user-attachments/assets/PLACEHOLDER_INTEGRATIONS_TECHNICAL_VIDEO
+https://github.com/user-attachments/assets/PLACEHOLDER_INTEGRATIONS_WEBSITE_VIDEO
 
-<img width="900" height="550" alt="Technical Integration" src="Static Assets/integrations_technical.png" />
+<img width="900" height="550" alt="Website Integration" src="Static Assets/integration_website.png" />
 
-**Description:** The Technical Integration hub, showing tabbed setup guides for Website SDK, Mobile SDK (iOS + Android), API Webhooks, and Tag Manager — each with copy-ready code snippets, configuration options, and a live connection test confirming events are reaching the Proof Vault.
+**Description:** The Website Integration interface showing the copyable HTML `<script>` loader, initialization settings, domain configurations, and real-time script blocking activity logs showing blocked vs. permitted tracking domains.
+
+---
+
+#### 📄 Mobile SDK Integration
+
+Enforces consent policies within native iOS and Android environments. It provides native dialog UI components, persistent UserDefaults/SharedPreferences storage, and an Offline Queue Manager that buffers consent events when connection is degraded. Outbound tracking tags (Firebase, AppsFlyer, etc.) are programmatically blocked until explicit purpose toggles are enabled.
+
+https://github.com/user-attachments/assets/PLACEHOLDER_INTEGRATIONS_MOBILE_SDK_VIDEO
+
+<img width="900" height="550" alt="Mobile SDK Integration" src="Static Assets/integration_mobile_sdk.png" />
+
+**Description:** The Mobile SDK Integration panel showing dependency installation code blocks for CocoaPods/Gradle, API initialization examples, visual configuration options for native modal popups, and the local event queue status.
+
+---
+
+#### 📄 Tag Manager Integration
+
+Bridges tag management containers (such as Google Tag Manager) with ZeroShield's consent state. It automatically updates the browser's global `dataLayer` variables (e.g., `zs_consent_analytics`, `zs_consent_marketing`) upon consent changes. Standard container templates trigger pause/fire conditions automatically based on specific DPDPA purpose registries, eliminating manual tag editing.
+
+https://github.com/user-attachments/assets/PLACEHOLDER_INTEGRATIONS_TAG_MANAGER_VIDEO
+
+<img width="900" height="550" alt="Tag Manager Integration" src="Static Assets/integration_tag_manager.png" />
+
+**Description:** The Tag Manager Integration workflow with instruction steps, GTM workspace settings showing dataLayer variable mappings, pre-built trigger definitions, and custom template download links.
+
+---
+
+#### 📄 API & Webhooks Integration
+
+Enables secure backend synchronization of consent states across enterprise architectures (e.g., CRMs like Salesforce, data warehouses, internal databases). Webhooks dispatch signed, HMAC-SHA256 authenticated JSON event payloads (e.g., `consent.withdrawn`) instantly when a principal withdraws consent, satisfying the Section 6(3)(a) requirement to cease data processing immediately.
+
+https://github.com/user-attachments/assets/PLACEHOLDER_INTEGRATIONS_API_WEBHOOKS_VIDEO
+
+<img width="900" height="550" alt="API & Webhooks Integration" src="Static Assets/integration_api_webhooks.png" />
+
+**Description:** The API & Webhooks configuration page showing active endpoints, generated API access keys with rotation controls, webhook retry strategies, and the payload delivery logs containing HMAC signature verification tokens and response codes.
 
 #### Hypothetical User Scenario
 
@@ -492,7 +687,84 @@ The Data Protection section provides the full suite of tools for managing person
 
 #### Architecture Overview
 
-<img width="900" height="550" alt="Data Protection Architecture" src="Static Assets/data_protection_architecture.png" />
+```mermaid
+flowchart TB
+    %% Source Connectors
+    subgraph Storage ["1. Connected Data Sources"]
+        direction LR
+        db_pg[("PostgreSQL")]
+        db_my[("MySQL")]
+        db_s3[("Amazon S3")]
+        db_local[("Local Storage")]
+    end
+
+    %% Scanning & Inventory Layer
+    subgraph CoreEngine ["2. Discovery & Inventory Engine"]
+        direction TB
+        ConnService["DB Connector Service<br/>(Schema Introspection)"]
+        ScannerService["PII Scanner Service<br/>(Regex & AI Sample Scans)"]
+        AssetReg["Asset Register<br/>(Data Catalog)"]
+        FieldClass["Field Classification System<br/>(Personal / Sensitive / Children's Data)"]
+        
+        ConnService -->|Introspects Tables / Columns| AssetReg
+        ScannerService -->|Auto-Classifies PII| FieldClass
+        AssetReg <--> FieldClass
+    end
+
+    %% Security & Enforcements
+    subgraph Safeguards ["3. Security Safeguards & Policies"]
+        direction TB
+        Masking[["Data Masking Engine<br/>(Hashing & Obfuscation)"]]
+        Anonymiser[["Data Anonymisation Sweeper<br/>(Non-Prod Dry Runs)"]]
+        Retention[["Retention Policy Engine<br/>(Automated Purge Sweeps)"]]
+        ChildSafeguard[["Children's Data Safeguard<br/>(Guardian Consent Verifier)"]]
+    end
+
+    %% Compliance Sync
+    subgraph Mapping ["4. Compliance & Governance Registry"]
+        direction LR
+        ROPA[["Record of Processing Activities (RoPA)"]]
+        DPA[["Processor DPA Tracking"]]
+        AuditLog[["Central Compliance Audit Trail"]]
+    end
+
+    %% Flow lines
+    db_pg --> ConnService
+    db_my --> ConnService
+    db_s3 --> ConnService
+    db_local --> ConnService
+
+    db_pg -.-> ScannerService
+    db_my -.-> ScannerService
+
+    FieldClass --> Masking
+    FieldClass --> Anonymiser
+    FieldClass --> ChildSafeguard
+    
+    AssetReg --> ROPA
+    FieldClass --> ROPA
+    FieldClass --> DPA
+    
+    %% Output to Audit Trail
+    ConnService --> AuditLog
+    ScannerService --> AuditLog
+    Masking --> AuditLog
+    Anonymiser --> AuditLog
+    Retention --> AuditLog
+    ChildSafeguard --> AuditLog
+
+    %% Styling
+    classDef default fill:#fafafa,stroke:#333,stroke-width:1px;
+    classDef storage fill:#e1f5fe,stroke:#03a9f4,stroke-width:1.5px;
+    classDef engine fill:#ede7f6,stroke:#673ab7,stroke-width:1.5px;
+    classDef safeguards fill:#ffe0b2,stroke:#fb8c00,stroke-width:1.5px;
+    classDef governance fill:#e8f5e9,stroke:#2e7d32,stroke-width:1.5px;
+
+    class db_pg,db_my,db_s3,db_local storage;
+    class ConnService,ScannerService,AssetReg,FieldClass engine;
+    class Masking,Anonymiser,Retention,ChildSafeguard safeguards;
+    class ROPA,DPA,AuditLog governance;
+```
 
 **Description:** The Data Protection architecture, showing how database connectors feed into the PII Scanner, which populates the Data Inventory. The Inventory then drives Retention Policy enforcement, Data Anonymisation sweeps, and the Children's Data Safeguard — all logged to the central audit trail.
 
@@ -598,7 +870,76 @@ The Data Principal Rights section provides the public-facing portal for Data Pri
 
 #### Architecture Overview
 
-<img width="900" height="550" alt="Data Principal Rights Architecture" src="Static Assets/rights_portal_architecture.png" />
+```mermaid
+flowchart TB
+    %% Public Ingestion Layer
+    subgraph PublicPortal ["1. Public Data Principal Portal"]
+        direction TB
+        DP["Data Principal (End-User)"]
+        UI_Portal["React Public Portal<br/>(White-Labeled Page)"]
+        OTP_Entry["OTP Verification UI<br/>(6-Digit Verification Code)"]
+        
+        DP -->|Selects Right & Submits Form| UI_Portal
+        UI_Portal -->|Prompts for OTP| OTP_Entry
+    end
+
+    %% Identity & Gateway Services
+    subgraph Gateway ["2. Verification & Ingestion Backend"]
+        direction TB
+        DSAR_Router["FastAPI DSAR Router"]
+        OTP_Mgr["OTP Manager Service"]
+        NotifyService["Email & SMS Service"]
+        
+        DSAR_Router -->|Generate Code| OTP_Mgr
+        OTP_Mgr -->|Dispatch Code| NotifyService
+        NotifyService -->|Deliver Code| DP
+        OTP_Entry -->|Submit Code| DSAR_Router
+    end
+
+    %% Core Request Processing & Storage
+    subgraph CoreEngine ["3. Processing & Orchestration Engine"]
+        direction TB
+        DB_DSAR[(PostgreSQL DB<br/>'data_rights_requests')]
+        SLA_Engine["SLA Timer Engine<br/>(Calculates due_at & countdowns)"]
+        PDF_Comp["ReportLab PDF Compiler<br/>(Closure Letters & Proof Packs)"]
+        
+        DSAR_Router -->|Upsert Request| DB_DSAR
+        DSAR_Router -->|Activate due_at Clock| SLA_Engine
+        SLA_Engine -->|Updates Status| DB_DSAR
+        PDF_Comp -->|Store Resolution Docs| DB_DSAR
+    end
+
+    %% Internal Management Dashboard
+    subgraph InternalWorkflow ["4. Internal Operations & Management"]
+        direction TB
+        Kanban["React Kanban Board UI<br/>(DSAR SLA Tracker)"]
+        RBAC["RBAC Role Gates<br/>(DPO vs. Handler Roles)"]
+        ActivityLogs["DSAR Activity Logs<br/>(Auditable Event Trail)"]
+        
+        DB_DSAR <-->|Load Queue & Details| Kanban
+        Kanban -->|Gate Operations| RBAC
+        Kanban -->|Log Steps| ActivityLogs
+    end
+
+    %% Flows
+    RBAC -->|1. Assign Handler| Kanban
+    RBAC -->|2. Move/Progress Request| Kanban
+    Kanban -->|3. Trigger PDF Resolution| PDF_Comp
+    PDF_Comp -->|4. Send Resolution Email| NotifyService
+    NotifyService -->|5. Deliver PDF Pack| DP
+
+    %% Styling
+    classDef default fill:#fafafa,stroke:#333,stroke-width:1px;
+    classDef public fill:#e3f2fd,stroke:#1565c0,stroke-width:1.5px;
+    classDef gateway fill:#ede7f6,stroke:#5e35b1,stroke-width:1.5px;
+    classDef core fill:#fff3e0,stroke:#e65100,stroke-width:1.5px;
+    classDef internal fill:#e8f5e9,stroke:#2e7d32,stroke-width:1.5px;
+
+    class DP,UI_Portal,OTP_Entry public;
+    class DSAR_Router,OTP_Mgr,NotifyService gateway;
+    class DB_DSAR,SLA_Engine,PDF_Comp core;
+    class Kanban,RBAC,ActivityLogs internal;
+```
 
 **Description:** The Data Principal Rights architecture — showing the public OTP-verified portal, internal Kanban SLA tracker, statutory countdown alarms, RBAC-gated handler assignment, activity logging, and the automated closure letter PDF compiler.
 
@@ -650,7 +991,80 @@ The Compliance section maps the organisation's real-time data practices against 
 
 #### Architecture Overview
 
-<img width="900" height="550" alt="Compliance Module Architecture" src="Static Assets/compliance_architecture.png" />
+```mermaid
+flowchart TB
+    %% Active Data Metrics (Inputs)
+    subgraph DataMetrics ["1. Live Evidence & Inputs"]
+        direction LR
+        Ev_Consent["Consent Notices & Toggles"]
+        Ev_DSAR["DSAR Status & SLA Metrics"]
+        Ev_Safeguards["Security Controls & Evidence"]
+        Ev_ROPA["ROPA & Vendor Audits"]
+    end
+
+    %% Core Map Service and Database
+    subgraph ComplianceCore ["2. Core Compliance Engine"]
+        direction TB
+        StatuteDB[("PostgreSQL DB<br/>(DpdpaStatuteSection Table)")]
+        CMS[["Compliance Map Service"]]
+        PenaltyCalculator[["Penalty Exposure & Posture Score Engine"]]
+        
+        StatuteDB -->|Seed Sections & Chapters| CMS
+        PenaltyCalculator <--> CMS
+    end
+
+    %% Operational Sub-Modules
+    subgraph ComplianceOperations ["3. Operational & Auditing Subsystems"]
+        direction TB
+        AuditBroker[["Audit Log Event Broker<br/>(System Activity Tracer)"]]
+        AuditDB[(PostgreSQL Audit Table)]
+        
+        subgraph BreachWizard ["Breach Disclosure Wizard"]
+            direction TB
+            Step1["1. Impact Assessment<br/>(Flags Child & PII Data)"]
+            Step2["2. DPB Notification Draft<br/>(72h Board Window)"]
+            Step3["3. Principal Notification Draft<br/>(Direct Disclosures)"]
+            Step4["4. PDF Packaging & Submit<br/>(ReportLab compiler)"]
+            
+            Step1 --> Step2 --> Step3 --> Step4
+        end
+        
+        AuditBroker -->|Write Log Entry| AuditDB
+    end
+
+    %% Front-End / Output Interfaces
+    subgraph Interfaces ["4. Compliance Console & Outputs"]
+        direction TB
+        UI_Map["React DPDPA Map page<br/>(Visual Status Grid: Sections 4-15)"]
+        UI_Score["Compliance Score Dashboard<br/>(CISO Command Center View)"]
+        UI_Audit["Central Audit Logs Table<br/>(Cryptographic Activity Trail)"]
+        
+        UI_Map <-->|Drill-down Gaps| CMS
+        UI_Score <-->|Fetch Posture Metrics| PenaltyCalculator
+        UI_Audit <-->|Query Action Trails| AuditDB
+    end
+
+    %% Flow lines
+    Ev_Consent --> CMS
+    Ev_DSAR --> CMS
+    Ev_Safeguards --> CMS
+    Ev_ROPA --> CMS
+
+    CMS -.->|Trigger Audit Logs| AuditBroker
+    BreachWizard -.->|Log Incident Cycles| AuditBroker
+
+    %% Styling
+    classDef default fill:#fafafa,stroke:#333,stroke-width:1px;
+    classDef metrics fill:#e1f5fe,stroke:#03a9f4,stroke-width:1.5px;
+    classDef core fill:#f3e5f5,stroke:#7b1fa2,stroke-width:1.5px;
+    classDef ops fill:#ffe0b2,stroke:#fb8c00,stroke-width:1.5px;
+    classDef ui fill:#e8f5e9,stroke:#2e7d32,stroke-width:1.5px;
+
+    class Ev_Consent,Ev_DSAR,Ev_Safeguards,Ev_ROPA metrics;
+    class StatuteDB,CMS,PenaltyCalculator core;
+    class AuditBroker,AuditDB,BreachWizard,Step1,Step2,Step3,Step4 ops;
+    class UI_Map,UI_Score,UI_Audit ui;
+```
 
 **Description:** The Compliance module architecture, showing how active data metrics flow into the DPDPA Map engine, which weights each section by its statutory penalty — while the Audit Log event broker records every administrative action and the Breach Wizard manages 72-hour incident response.
 
@@ -721,7 +1135,83 @@ The Governance section covers the organisation's advanced compliance infrastruct
 
 #### Architecture Overview
 
-<img width="900" height="550" alt="Governance Architecture" src="Static Assets/governance_architecture.png" />
+```mermaid
+flowchart TB
+    %% External Inputs & Signals
+    subgraph Signals ["1. External System Signals & Inputs"]
+        direction LR
+        ScanSig["PII Scanner Discoveries"]
+        VaultSig["Proof Vault Consent Stats"]
+        LogSig["Audit Log Action Trails"]
+    end
+
+    %% Core GRC Modules (Middle Layer)
+    subgraph CoreGRC ["2. Core Governance Modules"]
+        direction TB
+        subgraph RopaModule ["RoPA Module"]
+            R1["Processing Activity Registry"]
+            R2["Data & Purpose Mappings"]
+        end
+        subgraph DpiaModule ["DPIA Module"]
+            DP1["Risk Evaluation Wizard"]
+            DP2["Shield AI Risk Analyzer"]
+        end
+        subgraph VendorRisk ["Vendor Risk Intelligence"]
+            V1["Vendor DPA Contracts"]
+            V2["Security Rating Scorecards"]
+        end
+        subgraph PolicyMgmt ["Policy Manager"]
+            P1["Internal Privacy Policies"]
+            P2["Policy Version Controls"]
+        end
+    end
+
+    %% CISO Command Center & PDF Compiler (Aggregation Layer)
+    subgraph AggregationLayer ["3. Executive Control & Aggregation Engine"]
+        direction TB
+        CisoService["CISO Command Center Service"]
+        GRC_DB[(PostgreSQL GRC Database)]
+        PDF_Comp[["Board PDF Compile Server"]]
+        EvidenceVault[("Evidence Vault<br/>(SHA-256 Checksums)")]
+
+        CisoService <-->|CRUD Operations| GRC_DB
+        CisoService <-->|Verify Hashes| EvidenceVault
+        CisoService -->|Trigger Report Build| PDF_Comp
+    end
+
+    %% Executives & Outputs
+    subgraph Outputs ["4. Executive Interfaces & Reports"]
+        direction TB
+        UI_CC["React CISO Command Center Cockpit<br/>(Framework Gauges & Liabilities)"]
+        BoardPDF["Admissible Board Reports<br/>(SHA-256 Signed PDFs)"]
+        
+        UI_CC <-->|Render Posture tabs| CisoService
+        PDF_Comp -->|Output| BoardPDF
+    end
+
+    %% Flow lines
+    ScanSig -->|Auto-Trigger DPIA on Age Fields| DpiaModule
+    ScanSig -->|Schema Column Mapping| RopaModule
+    VaultSig -->|Aggregate Consent Metrics| CisoService
+    LogSig -->|Supply Activity Stream| CisoService
+
+    RopaModule -->|Supply Process Maps| CisoService
+    DpiaModule -->|Link Risk Assessments| CisoService
+    VendorRisk -->|Link Third-Party DPAs| CisoService
+    PolicyMgmt -->|Upload Control Policies| CisoService
+
+    %% Styling
+    classDef default fill:#fafafa,stroke:#333,stroke-width:1px;
+    classDef signals fill:#e1f5fe,stroke:#03a9f4,stroke-width:1.5px;
+    classDef core fill:#ede7f6,stroke:#673ab7,stroke-width:1.5px;
+    classDef agg fill:#fff3e0,stroke:#e65100,stroke-width:1.5px;
+    classDef out fill:#e8f5e9,stroke:#2e7d32,stroke-width:1.5px;
+
+    class ScanSig,VaultSig,LogSig signals;
+    class RopaModule,R1,R2,DpiaModule,DP1,DP2,VendorRisk,V1,V2,PolicyMgmt,P1,P2 core;
+    class CisoService,GRC_DB,PDF_Comp,EvidenceVault agg;
+    class UI_CC,BoardPDF out;
+```
 
 **Description:** The Governance architecture, showing how ROPA entries feed into DPIA requirements, how vendor relationships are governed through DPA contracts, and how the CISO Command Center aggregates signals from the Proof Vault, PII Scanner, and Audit Log for executive security reporting.
 
@@ -859,13 +1349,13 @@ https://github.com/user-attachments/assets/PLACEHOLDER_SETTINGS_INDUSTRY_CONFIG_
 
 #### 📄 DPDP Role Mapping
 
-Map the organisation's internal user accounts and groups to DPDPLawShield's RBAC roles — Superadmin, Org Admin, DPO, CISO, Auditor, Handler, and Viewer — with SSO group sync support.
+Map the organisation's internal user accounts and groups to DPDPA Shield's RBAC roles — Superadmin, Org Admin, DPO, CISO, Auditor, Handler, and Viewer — with SSO group sync support.
 
 https://github.com/user-attachments/assets/PLACEHOLDER_SETTINGS_ROLE_MAPPING_VIDEO
 
 <img width="900" height="550" alt="DPDP Role Mapping" src="Static Assets/settings_role_mapping.png" />
 
-**Description:** The DPDP Role Mapping page, showing a table of all active user accounts with their assigned DPDPLawShield roles and an SSO group sync configuration panel — allowing administrators to map Active Directory or Google Workspace groups to platform roles automatically.
+**Description:** The DPDP Role Mapping page, showing a table of all active user accounts with their assigned DPDPA Shield roles and an SSO group sync configuration panel — allowing administrators to map Active Directory or Google Workspace groups to platform roles automatically.
 
 ---
 
@@ -889,7 +1379,7 @@ https://github.com/user-attachments/assets/PLACEHOLDER_ADMIN_TEAM_USERS_VIDEO
 
 ## DPDPA Section Compliance Mapping
 
-| DPDPA Section | Obligation | DPDPLawShield Module |
+| DPDPA Section | Obligation | DPDPA Shield Module |
 |---------------|-----------|---------------------|
 | **Section 4** | Lawful processing with valid notice & consent | Consent Creator, Notice Builder |
 | **Section 5** | Notice requirements (purpose, categories, rights) | Consent Notices Manager, Eighth Schedule Language Support |
@@ -946,7 +1436,7 @@ https://github.com/user-attachments/assets/PLACEHOLDER_ADMIN_TEAM_USERS_VIDEO
 
 ## Case Studies
 
-A growing library of real-world case studies and technical deep-dives is available, demonstrating DPDPLawShield's impact across industries:
+A growing library of real-world case studies and technical deep-dives is available, demonstrating DPDPA Shield's impact across industries:
 
 - **[Case Study 1: Achieving DPDPA Baseline Compliance for a Telemedicine Platform](Case%20Studies/Achieving-DPDPA-Baseline-Compliance-for-a-Telemedicine-Platform.pdf)**
 
@@ -964,9 +1454,9 @@ A growing library of real-world case studies and technical deep-dives is availab
 ---
 
 > **Value Proposition:**
-> DPDPLawShield turns the Digital Personal Data Protection Act's most complex regulatory obligations into automated, auditable, and cryptographically provable software guardrails — empowering every Indian Data Fiduciary to move faster, stay compliant, and protect the trust of every Data Principal they serve.
+> DPDPA Shield turns the Digital Personal Data Protection Act's most complex regulatory obligations into automated, auditable, and cryptographically provable software guardrails — empowering every Indian Data Fiduciary to move faster, stay compliant, and protect the trust of every Data Principal they serve.
 
-*DPDPLawShield, a part of [ZeroShield](https://zeroshield.ai), brings in-depth, practical compliance automation to every stage of your data lifecycle.*
+*DPDPA Shield, a part of [ZeroShield](https://zeroshield.ai), brings in-depth, practical compliance automation to every stage of your data lifecycle.*
 
 ---
 
@@ -976,12 +1466,12 @@ We welcome contributions from the compliance, legal-tech, and security communiti
 
 ### 🚀 Get Started
 
-**[Sign up for DPDPLawShield](https://dpdplawshield.zeroshield.ai/)** to start your compliance journey today!
+**[Sign up for DPDPA Shield](https://dpdplawshield.zeroshield.ai/)** to start your compliance journey today!
 
 ### 🤝 Contributing
 
 - **Report Issues**: Found a bug or have a feature request? Open an issue on the repository.
-- **Code Contributions**: Submit pull requests to improve DPDPLawShield.
+- **Code Contributions**: Submit pull requests to improve DPDPA Shield.
 - **Documentation**: Help expand our compliance documentation and DPDPA section guides.
 - **Compliance Research**: Contribute new DPDPA section mappings, LIA templates, or breach scenario test cases.
 - **Note**: When contributing files, ensure individual files are under **100 MB** (GitHub repository size limit).
@@ -990,7 +1480,7 @@ We welcome contributions from the compliance, legal-tech, and security communiti
 
 - **GitHub Discussions**: Join community discussions on DPDPA compliance approaches.
 - **Compliance Research**: Collaborate on new interpretations of DPDPA obligations and emerging DPBI guidance.
-- **Feedback**: Share your experience using DPDPLawShield in your organisation.
+- **Feedback**: Share your experience using DPDPA Shield in your organisation.
 
 ### 📞 Contact
 
@@ -1051,10 +1541,12 @@ All rights reserved. This software and its documentation are the intellectual pr
   Section 3 — INTEGRATIONS:
     integrations_architecture.png          Integrations architecture diagram
     integrations_overview.png              Integrations Overview screenshot
-    integrations_technical.png             Technical Integration screenshot
+    integration_website.png                Website Integration screenshot
+    integration_mobile_sdk.png             Mobile SDK Integration screenshot
+    integration_tag_manager.png            Tag Manager Integration screenshot
+    integration_api_webhooks.png           API & Webhooks Integration screenshot
 
   Section 4 — DATA PROTECTION:
-    data_protection_architecture.png       Data Protection architecture diagram
     data_sources.png                       Data Sources screenshot
     data_inventory.png                     Data Inventory screenshot
     pii_scanner_results.png                PII Scanner screenshot
@@ -1064,20 +1556,17 @@ All rights reserved. This software and its documentation are the intellectual pr
     childrens_data_safeguard.png           Children's Data screenshot
 
   Section 5 — DATA PRINCIPAL RIGHTS:
-    rights_portal_architecture.png         Rights Portal architecture diagram
     rights_portal_public.png               Rights Portal (Public) screenshot
     dsar_kanban_board.png                  DSAR SLA Tracker screenshot
     dsar_activity_logs.png                 Logs screenshot
 
   Section 6 — COMPLIANCE:
-    compliance_architecture.png            Compliance architecture diagram
     dpdpa_map.png                          DPDPA Map screenshot
     compliance_security_safeguards.png     Security Safeguards screenshot
     breach_disclosure_wizard.png           Breach Disclosure Wizard screenshot
     compliance_audit_log.png               Audit Log screenshot
 
   Section 7 — GOVERNANCE:
-    governance_architecture.png            Governance architecture diagram
     governance_ropa.png                    RoPA Module screenshot
     governance_dpia.png                    DPIA Module screenshot
     governance_policy_manager.png          Policy Manager screenshot
@@ -1120,9 +1609,12 @@ All rights reserved. This software and its documentation are the intellectual pr
     PLACEHOLDER_CONSENT_NOTICE_DELIVERY_VIDEO
     PLACEHOLDER_CONSENT_WITHDRAWAL_FLOW_VIDEO
 
-  Section 3 — INTEGRATIONS (2 videos):
+  Section 3 — INTEGRATIONS (5 videos):
     PLACEHOLDER_INTEGRATIONS_OVERVIEW_VIDEO
-    PLACEHOLDER_INTEGRATIONS_TECHNICAL_VIDEO
+    PLACEHOLDER_INTEGRATIONS_WEBSITE_VIDEO
+    PLACEHOLDER_INTEGRATIONS_MOBILE_SDK_VIDEO
+    PLACEHOLDER_INTEGRATIONS_TAG_MANAGER_VIDEO
+    PLACEHOLDER_INTEGRATIONS_API_WEBHOOKS_VIDEO
 
   Section 4 — DATA PROTECTION (7 videos):
     PLACEHOLDER_DATAPROTECTION_DATA_SOURCES_VIDEO
@@ -1162,6 +1654,6 @@ All rights reserved. This software and its documentation are the intellectual pr
   Section 9 — ADMINISTRATION (1 video):
     PLACEHOLDER_ADMIN_TEAM_USERS_VIDEO
 
-  Total: 43 videos across 9 sidebar sections + Shield AI + Platform Guides.
+  Total: 46 videos across 9 sidebar sections + Shield AI + Platform Guides.
 =================================================================
 -->
