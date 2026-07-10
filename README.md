@@ -380,7 +380,75 @@ The Consent Management section covers the full consent lifecycle — from config
 
 #### Architecture Overview
 
-<img width="900" height="550" alt="Consent Management Architecture" src="Static Assets/consent_management_architecture.png" />
+```mermaid
+flowchart TB
+    %% Notice & Purpose Design (Admin Console)
+    subgraph AdminConsole ["1. Notice & Purpose Configuration"]
+        direction TB
+        PurposeReg["Purpose Registry<br/>(Specific & Granular Toggles)"]
+        NoticeCreator["Consent Notice Creator<br/>(22 Eighth Schedule Translations)"]
+        ProvAdapters["Pluggable Provider Adapters<br/>(CMPs & Storage Config)"]
+
+        PurposeReg --> NoticeCreator
+    end
+
+    %% Client Ingestion (Web / Mobile SDK)
+    subgraph ClientLayer ["2. Client-Side Ingest & Execution"]
+        direction TB
+        ZSSDK["ZeroShield JS / Mobile SDK"]
+        LS["Cookies / Local Storage<br/>(Cached Choice)"]
+        BannerUI["Consent Banner UI Modal<br/>(Granular Consent Toggles)"]
+        WithdrawFlow["Symmetric Withdrawal UI<br/>(Section 6(3)(a) Easy Revocation)"]
+
+        ZSSDK <-->|Read & Write| LS
+        ZSSDK -->|Render Banner| BannerUI
+        ZSSDK -->|Trigger Revocation| WithdrawFlow
+    end
+
+    %% Backend Services (FastAPI API Layer)
+    subgraph ApiBackend ["3. Ingestion & Validation APIs"]
+        direction TB
+        ConsentAPI["Consent Recording API"]
+        NoticeAPI["CDN Notice Delivery API"]
+        PVService["Proof Vault Service"]
+
+        ConsentAPI --> PVService
+    end
+
+    %% Cryptographic Ledger (Proof Vault)
+    subgraph Ledger ["4. Cryptographic WORM Proof Vault"]
+        direction TB
+        HashEngine["SHA-256 Chaining Engine<br/>(block_hash = Hash(data + prev_hash))"]
+        Merkle["Merkle Tree Verifier<br/>(Daily Chain Integrity Auditing)"]
+        Postgres[(PostgreSQL WORM DB<br/>'BEFORE UPDATE/DELETE' Rules)]
+        ProofPack[["Legal Proof Pack Exporter<br/>(Sec 65B Indian Evidence Act)"]]
+
+        PVService -->|1. Event Payload| HashEngine
+        HashEngine -->|2. Compute Hash| Postgres
+        Postgres <-->|Audit Hash Sequence| Merkle
+        Postgres -->|Generate Verified ZIP| ProofPack
+    end
+
+    %% Flow lines
+    NoticeCreator -->|Publish Notice Config| NoticeAPI
+    NoticeAPI -->|Fetch Notice Details| ZSSDK
+    BannerUI -->|Submit Opt-In/Opt-Out| ZSSDK
+    WithdrawFlow -->|Submit Consent Withdrawal| ZSSDK
+    ZSSDK -->|POST Event Payload| ConsentAPI
+    ProvAdapters -->|Independent Configurations| ConsentAPI
+
+    %% Styling
+    classDef default fill:#fafafa,stroke:#333,stroke-width:1px;
+    classDef admin fill:#e1f5fe,stroke:#03a9f4,stroke-width:1.5px;
+    classDef client fill:#f1f8e9,stroke:#558b2f,stroke-width:1.5px;
+    classDef backend fill:#ede7f6,stroke:#673ab7,stroke-width:1.5px;
+    classDef ledger fill:#fff3e0,stroke:#e65100,stroke-width:1.5px;
+
+    class PurposeReg,NoticeCreator,ProvAdapters admin;
+    class ZSSDK,LS,BannerUI,WithdrawFlow client;
+    class ConsentAPI,NoticeAPI,PVService backend;
+    class HashEngine,Merkle,Postgres,ProofPack ledger;
+```
 
 **Description:** The Consent Management architecture, showing how the Purpose Registry, Notice Creator, and SDK work together — consent events flow from the browser through the API into the WORM Proof Vault, while provider adapters and withdrawal flows are managed independently of any deployment cycle.
 
@@ -1526,7 +1594,6 @@ All rights reserved. This software and its documentation are the intellectual pr
     overview_rbac_matrix.png               RBAC Permission Matrix (embed here)
 
   Section 2 — CONSENT MANAGEMENT:
-    consent_management_architecture.png    Consent Management architecture diagram
     consent_provider_adapters.png          Pluggable Provider Adapters screenshot
     consent_purpose_registry.png           Purpose Registry screenshot
     consent_notices_manager.png            Consent Notices Manager screenshot
